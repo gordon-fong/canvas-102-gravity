@@ -5,3 +5,4 @@ canvas.height = window.innerHeight
 
 const ctx = canvas.getContext('2d')
 
+console.log(ctx)
